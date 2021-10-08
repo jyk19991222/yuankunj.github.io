@@ -1,3 +1,9 @@
+### Yuankun (Stacy) Jiao
+
+## Education
+2018-present: B.S. in Geographic Information Science, Huazhong Agricultural University, China.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jyk19991222/yuankunj.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
