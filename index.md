@@ -1,7 +1,18 @@
-### Yuankun (Stacy) Jiao
+# Yuankun (Stacy) Jiao
 
 ## Education
-2018-present: B.S. in Geographic Information Science, Huazhong Agricultural University, China.
+2018-present: B.S. in Geographic Information Science, Huazhong Agricultural University, China. (GPA 3.885/4.000, Rank 2/307)
+
+
+## Research Experiences
+
+
+## Publications
+
+
+## Practical Experiences
+
+## Honor and Awards
 
 
 ## Welcome to GitHub Pages
